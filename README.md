@@ -3,4 +3,4 @@
 - 🧠 I study math and problem solving.
 - 🧑‍💻 I know $\LaTeX$.
 - 📑 I have written some interesting books and documents using $\LaTeX$.
-- 🛜 here's my website
+- 🛜 here's my [website](neygiya.github.io)
